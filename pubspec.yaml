@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   dropdown_search: ^5.0.2
   flutter_native_splash: ^2.2.7
+  jiffy: ^5.0.0
 
 dev_dependencies:
   flutter_test:
