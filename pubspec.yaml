@@ -38,6 +38,8 @@ dependencies:
   flutter_native_splash: ^2.2.7
   jiffy: ^5.0.0
   image_picker: ^0.8.5+3
+  http: ^0.13.5
+  flutter_conditional_rendering: ^2.0.0
 
 dev_dependencies:
   flutter_test:
